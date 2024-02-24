@@ -21,7 +21,7 @@ function selectChoice() {
 
     if (you == opponent) {
         yourScore += 1;
-        opponent += 1;
+        opponentScore += 1;
     }
     else {
         if (you == "rock") {
